@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;app.Tassk&apos; to &apos;Task&apos;&#x0D;&#x0A;- Original project: &apos;app&apos;&#x0D;&#x0A;- Original element: &apos;app.Tassk&apos;&#x0D;&#x0A;- Renamed element: &apos;app.Task&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Tassk&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;app{Tassk.java[Tassk" matchStrategy="1" name="Task" qualified="false" references="true" similarDeclarations="false" stamp="1676112612515" textual="false" version="1.0"/>
+</session>

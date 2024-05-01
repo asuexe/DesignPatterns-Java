@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.FWDP2.PizzaFactory.java&apos; to &apos;FranchiseFactory.java&apos;&#x0D;&#x0A;- Original project: &apos;FWDP2&apos;&#x0D;&#x0A;- Original element: &apos;com.FWDP2.PizzaFactory.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.FWDP2.FranchiseFactory.java&apos;" description="Rename compilation unit &apos;PizzaFactory.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.FWDP2{PizzaFactory.java" name="FranchiseFactory.java" references="false" stamp="1679631835780" version="1.0"/>
+</session>

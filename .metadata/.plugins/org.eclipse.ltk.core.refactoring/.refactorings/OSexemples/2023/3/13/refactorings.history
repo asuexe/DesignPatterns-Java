@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;numberOfProcess&apos; in &apos;com.os_exemple.PS.main(...)&apos; to &apos;n&apos;&#x0D;&#x0A;- Original project: &apos;OSexemples&apos;&#x0D;&#x0A;- Original element: &apos;com.os_exemple.PS.main(String[]).numberOfProcess&apos;&#x0D;&#x0A;- Renamed element: &apos;numberOfProcess&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;numberOfProcess&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.os_exemple{PS.java[PS~main~\[QString;@numberOfProcess!230!264!234!248!I!0!false" name="n" references="true" stamp="1679906275558" version="1.0"/>
+</session>

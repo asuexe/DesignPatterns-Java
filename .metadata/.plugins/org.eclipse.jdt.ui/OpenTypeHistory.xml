@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=abstractFDP/src&lt;abstractFDP{shape.java[shape" modifiers="513" timestamp="1675487196414"/>
+    <typeInfo handle="=h/src&lt;com.human{Human.java[Human" modifiers="512" timestamp="1676607246907"/>
+    <typeInfo handle="=PlantsAFDP/src&lt;com.plant{Flower.java[Flower" modifiers="512" timestamp="1675136560414"/>
+    <typeInfo handle="=Composite/C:\/Program Files\/Java\/jdk-19\/lib\/jrt-fs.jar`java.management=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/19\/docs\/api\/=/=/module=/true=/&lt;javax.management.openmbean(CompositeData.class[CompositeData" modifiers="1537" timestamp="1672417693422"/>
+    <typeInfo handle="=Composite2/src&lt;CDP2{Book.java[Book" modifiers="513" timestamp="1679844595604"/>
+    <typeInfo handle="=AdaptorDP/src&lt;com.Adaptor{MediaPlayer.java[MediaPlayer" modifiers="513" timestamp="1678770836865"/>
+    <typeInfo handle="=AdaptorDP/src&lt;com.Adaptor{AdvancedMediaPlayer.java[AdvancedMediaPlayer" modifiers="513" timestamp="1678770946489"/>
+    <typeInfo handle="=FWDP1/C:\/Program Files\/Java\/jdk-19\/lib\/jrt-fs.jar`java.desktop=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/19\/docs\/api\/=/=/module=/true=/&lt;java.awt(Shape.class[Shape" modifiers="1537" timestamp="1672417693422"/>
+    <typeInfo handle="=FWDP1/src&lt;com.FWDP{shape.java[shape" modifiers="513" timestamp="1679379163605"/>
+    <typeInfo handle="=ODP/src&lt;com.ODP{Observer.java[Observer" modifiers="513" timestamp="1681231361436"/>
+    <typeInfo handle="=Exemple1/src&lt;com.EX1{Command.java[Command" modifiers="513" timestamp="1682833821355"/>
+    <typeInfo handle="=Exemple2/src&lt;com.EX2{Game.java[Game" modifiers="513" timestamp="1682836317522"/>
+</typeInfoHistroy>

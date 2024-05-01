@@ -1,0 +1,27 @@
+package com.phone;
+package com.phone.android;
+package com.phone.IOS;
+package com.phone.windows;
+import java.util.*;
+public class Factory {
+	public static void main(String args[]) {
+		Scanner sc = new Scanner(System.in);
+		String s = sc.next();
+		if(s=="android") {
+			os obj = new android();
+			obj.spec();
+			
+		}
+		else if(s=="IOS") {
+			os obj = new IOS();
+			obj.spec();
+			
+			
+		}
+		else {
+			os obj = new windows();
+			obj.spec();
+		}
+	}
+
+}

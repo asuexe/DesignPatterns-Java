@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;radius&apos; in &apos;com.FWDP.circle&apos; to &apos;r&apos;&#x0D;&#x0A;- Original project: &apos;FWDP1&apos;&#x0D;&#x0A;- Original element: &apos;com.FWDP.circle.radius&apos;&#x0D;&#x0A;- Renamed element: &apos;com.FWDP.circle.r&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;radius&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.FWDP{circle.java[circle^radius" name="r" references="true" setter="false" stamp="1679379723874" textual="false" version="1.0"/>
+</session>

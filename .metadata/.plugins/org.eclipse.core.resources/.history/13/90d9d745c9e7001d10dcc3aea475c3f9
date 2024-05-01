@@ -1,0 +1,25 @@
+package com.EX7;
+
+public class Truck implements Transport {
+	private String TID;
+	private String Location;
+	private Boolean Check=false;
+	
+	Truck(String TID,Boolean Check){
+		this.TID=TID;
+		this.Check=Check;
+	}
+	public void setLocation(String Location) {
+		this.Location=Location;
+	}
+	public String getLocation() {
+		return Location;
+	}
+	@Override
+	public void Deliever() {
+		System.out.println("Truck with id no :"+ TID+ "is Delivering at "+ Location);
+		
+	}
+	
+
+}

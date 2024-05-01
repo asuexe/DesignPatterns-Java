@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;ingredients&apos; in &apos;com.facade.Waiter.deliverFood(...)&apos; to &apos;I&apos;&#x0D;&#x0A;- Original project: &apos;FacadeDP&apos;&#x0D;&#x0A;- Original element: &apos;com.facade.Waiter.deliverFood(FoodType).ingredients&apos;&#x0D;&#x0A;- Renamed element: &apos;ingredients&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;ingredients&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.facade{Waiter.java[Waiter~deliverFood~QFoodType;@ingredients!114!157!126!136!QIngredients;!0!false" name="I" references="true" stamp="1680587806930" version="1.0"/>
+</session>

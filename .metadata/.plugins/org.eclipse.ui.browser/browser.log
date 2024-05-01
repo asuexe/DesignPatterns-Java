@@ -1,0 +1,6 @@
+
+Jan 06, 2023 18:01:07.278 NEW SESSION
+Jan 06, 2023 18:01:07.278 [2023-01-06T12:31:07Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+Jan 06, 2023 18:01:15.127 [2023-01-06T12:31:15Z ERROR viaduct::backend::ffi] Missing HTTP status
+Jan 06, 2023 18:01:15.130 [2023-01-06T12:31:15Z ERROR viaduct::backend::ffi] Missing HTTP status
+Jan 06, 2023 18:01:15.139 [2023-01-06T12:31:15Z ERROR viaduct::backend::ffi] Missing HTTP status

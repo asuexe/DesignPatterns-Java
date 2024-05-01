@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.DBMS.Swing7&apos; to &apos;DataHandler&apos;&#x0D;&#x0A;- Original project: &apos;DBMS&apos;&#x0D;&#x0A;- Original element: &apos;com.DBMS.Swing7&apos;&#x0D;&#x0A;- Renamed element: &apos;com.DBMS.DataHandler&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update fully qualified names in &apos;*&apos; files&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Swing7&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.DBMS{Swing7.java[Swing7" matchStrategy="1" name="DataHandler" patterns="*" qualified="true" references="true" similarDeclarations="true" stamp="1681189570386" textual="true" version="1.0"/>
+</session>
